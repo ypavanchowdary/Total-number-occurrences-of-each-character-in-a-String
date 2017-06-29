@@ -25,9 +25,12 @@ public class CharRepetetion {
 
 	}
 
-	private static void getCount(String str) {
-		// TODO Auto-generated method stub
-		
-	}
+public static void getCount(String name) {
+        
+       
+
+        }
+    }
+
 
 }
